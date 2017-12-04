@@ -6,7 +6,7 @@ provider:
   name: aws
   runtime: nodejs4.3
   stage: cicd
-  region: ap-southeast-1
+  region: eu-west-1
   iamRoleStatements:
     - Effect: Allow
       Action:
